@@ -21,6 +21,12 @@ II. For Human Body part Detection:
 ![download](https://user-images.githubusercontent.com/72397937/141693965-d0a959fe-0959-4871-bd2c-2100a6609242.png)
 
 
+## Project-Team Members:
+
+ <a href="https://github.com/menakinako"><img src="https://avatars.githubusercontent.com/u/72397937?v=4" width=150px height=150px /></a>
+ &nbsp;
+ <a href="https://github.com/menakinako"><img src="https://avatars.githubusercontent.com/u/72227445?v=4" width=150px height=150px /></a> <br/>
+
 
 
 

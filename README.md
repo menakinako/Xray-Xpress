@@ -25,8 +25,9 @@ II. For Human Body part Detection:
 
  <a href="https://github.com/menakinako"><img src="https://avatars.githubusercontent.com/u/72397937?v=4" width=150px height=150px /></a>
  &nbsp;
- <a href="https://github.com/menakinako"><img src="https://avatars.githubusercontent.com/u/72227445?v=4" width=150px height=150px /></a> <br/>
-
+ <a href="https://github.com/Aiswarika"><img src="https://avatars.githubusercontent.com/u/72227445?v=4" width=150px height=150px /></a> 
+&nbsp;
+ <a href="https://github.com/Auro4401"><img src="https://avatars.githubusercontent.com/u/80263917?v=4" width=150px height=150px /></a> <br/>
 
 
 
